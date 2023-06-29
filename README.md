@@ -2,8 +2,7 @@
 
 <h3 align="left">A passionate Data Scientist from 🇲🇽 living in 🇩🇪. I just finished the Data Science Bootcamp @ lewagon in Cologne.
 
-You can see my E.E.G Project app [here](https://maxzimmo-final-project-eeg-app-vhk9g5.streamlit.app/).
-The repo you can consult [here](https://github.com/maxzimmo/final_project_EEG).
+You can see my E.E.G Project app [here](https://maxzimmo-final-project-eeg-app-vhk9g5.streamlit.app/) and the repo [here](https://github.com/maxzimmo/final_project_EEG).
 
 </h3>
 
