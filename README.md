@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Julian</h1>
-<h3 align="center">A passionate Data Scientist from 🇲🇽 living in 🇩🇪.</h3>
+<h1 align="left">Hi 👋, I'm Julian</h1>
+
+<h3 align="left">A passionate Data Scientist from 🇲🇽 living in 🇩🇪. I just finished the Data Science Bootcamp @ lewagon in Cologne.
+
+You can see my E.E.G Project app [here](https://maxzimmo-final-project-eeg-app-vhk9g5.streamlit.app/).
+The repo you can consult [here](https://github.com/maxzimmo/final_project_EEG).
+
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
