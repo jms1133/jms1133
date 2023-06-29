@@ -1,12 +1,13 @@
 <h1 align="left">Hi 👋, I'm Julian</h1>
 
-<h3 align="left">A passionate Data Scientist from 🇲🇽 living in 🇩🇪. I just finished the Data Science Bootcamp @ lewagon in Cologne.
+<h3 align="left">A passionate Data Scientist from 🇲🇽 living in 🇩🇪. 
+I just finished the Data Science Bootcamp @ lewagon in Cologne.
 
 You can see my E.E.G Project app [here](https://maxzimmo-final-project-eeg-app-vhk9g5.streamlit.app/) and the repo [here](https://github.com/maxzimmo/final_project_EEG).
 
 </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/edgar-julian-morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar-julian-morales" height="30" width="40" /></a>
 </p>
